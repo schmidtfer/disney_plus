@@ -1,0 +1,19 @@
+.footer {
+    padding: 26px 8px;
+    &__container {
+        max-width: 1024px;
+        width: 100%;
+        margin: 20px auto;
+        text-align: center;
+    }
+
+    &__logo {
+        width: 80px;
+        margin: 0 auto 10px;
+    }
+}
+
+
+p{
+    margin-bottom: 16px;
+}
